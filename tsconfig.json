@@ -106,7 +106,7 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   }
   ,
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "dist/demo.js", "dist/04-numbers.js", "dist/03-typing.js", "dist/03-demo.js", "dist/02-demo.js", "dist/01-hello.js"],
   "exclude": ["node_modules"]
 
 }
